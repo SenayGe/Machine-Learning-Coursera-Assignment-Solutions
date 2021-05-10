@@ -9,3 +9,5 @@ This repository contains my personal solutions to the programming assignments fr
 - **Ex-6:** Support Vector Machines
 - **Ex-7:** K-Means Clustering and PCA
 - **Ex-8:** Anomaly Detection adn Recommender Systems
+## Certificate
+[ML-Certificate-Stanford_Online.pdf](https://github.com/SenayGe/Machine-Learning-Coursera-Assignment-Solutions/files/6454746/ML-Certificate-Stanford_Online.pdf)
