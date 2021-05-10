@@ -10,5 +10,6 @@ This repository contains my personal solutions to the programming assignments fr
 - **Ex-7:** K-Means Clustering and PCA
 - **Ex-8:** Anomaly Detection adn Recommender Systems
 ## Certificate
-![ML-Certificate-Stanford_Online](https://user-images.githubusercontent.com/68114136/117719311-48fff980-b1ee-11eb-841d-a1d246641277.jpg)
+![ML-Certificate-Stanford_Online1024_1](https://user-images.githubusercontent.com/68114136/117720368-a5afe400-b1ef-11eb-8198-ee8f186a4f9d.jpg)
+
 
